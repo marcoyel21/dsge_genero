@@ -1,0 +1,29 @@
+Este repositorio contiene los elementos de una investigación sobre género y modelos económicos de equilibrio general dinámico. 
+
+Archivos
+
+paper_final.Rmd<---------script en markdown de la investigación
+paper_final.pdf<---------invesvestigación en pdf
+Fuentes.bib<------------- bibligrafia
+mi_chicago.csl<---------- reglas de citación
+
+model.mod<--------------- modelo dsge en dynare (MATLAB)
+
+
+Archivos aux:
+
+IMAGENES AUXILIARES:
+1A.png
+1B.png
+2A.png
+2B.png
+No_disponible.png
+Part_laboral.png
+Salarios.jpg
+Distribución.jpg
+
+TABLAS AUXILIARES:
+caract.csv
+participacion.csv
+
+
